@@ -16,3 +16,8 @@ body {
   background-color: #f6ff0083;
   border-radius: 7px;
 }
+.header{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
