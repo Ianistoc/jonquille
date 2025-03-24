@@ -9,6 +9,8 @@ body {
 }
 .topbar { 
 	background-color: #f6ff0083;
+  height: 40%;
+
 }
 .bouton {
   background-color: #f6ff0083;
