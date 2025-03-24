@@ -1,10 +1,14 @@
-.sofadi-one-regular {
-    font-family: "Sofadi One", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+body {
+	margin: 0;    
+}
+
+.dm-sans {
+	font-family: "DM Sans", serif;
+	font-weight: 400;
+	font-style: normal;
+}
 .topbar { 
-  background-color: #f6ff0083;
+	background-color: #f6ff0083;
 }
 .bouton {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
