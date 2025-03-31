@@ -8,9 +8,10 @@ body {
 	font-style: normal;
 }
 .topbar { 
-	background-color: #f6ff0083;
+  display: flex;
+	flex-direction: column;
+  background-color: #f6ff0083;
   height: 40%;
-
 }
 .bouton {
   background-color: #f6ff0083;
